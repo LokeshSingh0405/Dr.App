@@ -1,0 +1,14 @@
+plogin.php
+dlogin.php
+register_doctor.php
+register_patient.php
+back.php
+style.css
+ex.php
+ex2.php
+example.php
+exam3.php
+exmp4.php
+exmpl2.php
+exmp4.php
+admin.php
