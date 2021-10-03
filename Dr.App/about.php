@@ -44,7 +44,7 @@
 
         
         <p><b>For any query you can <a href="contact.php">contact</a> us anytime. Thankyou for using our service.</b></p><br>
-            <p>This is a Minor Project Created By: Alby, Ajay, Gaurank for SD Bansal College of Technology,Indore</p>
+            <p>This is a Minor Project Created By:Lokesh Gehlot and respective team member of Shri vaishnav vidyappeth vishwadiyalaya,Indore</p>
 
     </div>
     
